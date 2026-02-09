@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "570184368410",
+    "project_id": "taalomy-ff4ab",
+    "storage_bucket": "taalomy-ff4ab.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570184368410:android:7d9d235303e5239f646ca3",
+        "android_client_info": {
+          "package_name": "com.Taalomy.lecturer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnabbcjXOuHkS0m0nZkmo7u5hQ0QbEhtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:570184368410:android:66b6742df96ee794646ca3",
+        "android_client_info": {
+          "package_name": "com.Taalomy.student"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnabbcjXOuHkS0m0nZkmo7u5hQ0QbEhtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
